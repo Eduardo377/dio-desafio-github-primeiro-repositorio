@@ -4,7 +4,7 @@
 
 ## <div align="center"> Olá Prezados! <img src="./assets/Hi.gif" alt="hi" width="29px"> </div>
 
-Nesse desafio, fomos desafiados pelo prof **Venolton Falvo Jr** , perante nosso conhecimento para realizarmos um repositório com nossas anotações das aulas que tivemos até agora da **plataforma DIO**, no curso de "**Primeiros Passos em Tecnolgia**", criando um repositório com essas informações lá, em forma de termos elas para visualização, conforme um caderno digital. Ex: Onenote do Windows.
+Nesse desafio, fomos desafiados pelo prof **Venolton Falvo Jr**, perante nosso conhecimento, para realizarmos um repositório com nossas anotações das aulas que tivemos até agora da **plataforma DIO**, no bootcamp promivido pelo "**Banco PAN**", criando um repositório com essas informações lá, em forma de termos elas para visualização, conforme um caderno digital. Ex: Onenote do Windows.
 
 Executando assim:
 
